@@ -32,8 +32,8 @@ O **Looker Studio** foi integrado ao site para gerar insights detalhados sobre o
 ### Home Page
 ![Home Page](https://raw.githubusercontent.com/josebrandao/casacheri/main/casacheri%20-%20home.png)
 
-### Galeria de Produtos
-![Galeria de Produtos](link-para-imagem)
+### Galeria de Fotos
+![Galeria de Fotos](https://github.com/josebrandao/casacheri/blob/main/casacheri%20-%20galeria.png)
 
 ## Link do Site
 Visite o site ao vivo para explorar o portfólio completo: [casacheri.com.br](https://casacheri.com.br)
