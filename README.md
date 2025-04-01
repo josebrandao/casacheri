@@ -38,6 +38,9 @@ O **Looker Studio** foi integrado ao site para gerar insights detalhados sobre o
 ### Paleta de Cores
 ![Paleta de Cores](https://github.com/josebrandao/casacheri/blob/main/casacheri%20-%20paleta%20de%20cores.jpeg)
 
+### Dashboard no Looker Studio
+![Dashboard](https://github.com/josebrandao/casacheri/blob/main/casacheri%20-%20looker%20studio.png)
+
 ## Link do Site
 Visite o site ao vivo para explorar o portfólio completo: [casacheri.com.br](https://casacheri.com.br)
 
