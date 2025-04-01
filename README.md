@@ -25,7 +25,8 @@ O **Google Tag Manager (GTM)** foi implementado para facilitar a gestão das tag
 ## Screenshots
 
 ### Home Page
-![Home Page](link-para-imagem)
+![Home Page](https://raw.githubusercontent.com/josebrandao/casacheri/main/casacheri%20-%20home.png)
+
 
 ### Galeria de Produtos
 ![Galeria de Produtos](link-para-imagem)
