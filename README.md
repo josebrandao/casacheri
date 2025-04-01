@@ -10,6 +10,8 @@
 - **HTML, CSS, JavaScript**: Tecnologias front-end utilizadas para personalizar a estrutura e o design do site, proporcionando uma experiência visual interativa.
 - **Google Analytics 4 (GA4)**: Implementado para monitoramento e análise de tráfego do site.
 - **Google Tag Manager (GTM)**: Usado para gerenciar tags e eventos de marketing de forma eficiente, essencial para a gestão de campanhas sazonais e disparos de banners/popup promocionais.
+- **Looker Studio**: Ferramenta utilizada para geração de insights detalhados sobre o desempenho do site e extração de relatórios analíticos, permitindo uma visão clara sobre o comportamento dos usuários e o impacto das campanhas.
+- **Fonte Zapfino PRO**: Fonte tipográfica escolhida para dar um toque elegante e exclusivo ao design do site, proporcionando uma identidade visual única.
 
 ## Funcionalidades e Estratégias
 
@@ -22,15 +24,16 @@ O **Google Analytics** foi configurado para rastrear o comportamento dos usuári
 ### Gestão de Campanhas com GTM
 O **Google Tag Manager (GTM)** foi implementado para facilitar a gestão das tags no site. A principal aplicação do GTM foi permitir a configuração de campanhas promocionais sazonais, utilizando banners e popups direcionados, que são acionados com base no comportamento dos usuários e nas datas específicas. Isso ajudou a tornar as campanhas de marketing mais eficazes e focadas.
 
+### Utilização do Looker Studio
+O **Looker Studio** foi integrado ao site para gerar insights detalhados sobre o comportamento dos usuários. A ferramenta permite a extração de relatórios analíticos, ajudando a compreender as métricas mais relevantes do site e otimizar as campanhas com base em dados reais.
+
 ## Screenshots
 
 ### Home Page
 ![Home Page](https://raw.githubusercontent.com/josebrandao/casacheri/main/casacheri%20-%20home.png)
-
 
 ### Galeria de Produtos
 ![Galeria de Produtos](link-para-imagem)
 
 ## Link do Site
 Visite o site ao vivo para explorar o portfólio completo: [casacheri.com.br](https://casacheri.com.br)
-
