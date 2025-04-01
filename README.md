@@ -35,5 +35,11 @@ O **Looker Studio** foi integrado ao site para gerar insights detalhados sobre o
 ### Galeria de Fotos
 ![Galeria de Fotos](https://github.com/josebrandao/casacheri/blob/main/casacheri%20-%20galeria.png)
 
+### Paleta de Cores
+![Paleta de Cores](https://github.com/josebrandao/casacheri/blob/main/casacheri%20-%20paleta%20de%20cores.jpeg)
+
 ## Link do Site
 Visite o site ao vivo para explorar o portfólio completo: [casacheri.com.br](https://casacheri.com.br)
+
+
+
